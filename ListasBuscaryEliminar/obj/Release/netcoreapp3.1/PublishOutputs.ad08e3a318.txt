@@ -1,0 +1,5 @@
+C:\Users\7yuvr\source\repos\ListasBuscaryEliminar\ListasBuscaryEliminar\bin\publish\ListasBuscaryEliminar.exe
+C:\Users\7yuvr\source\repos\ListasBuscaryEliminar\ListasBuscaryEliminar\bin\publish\ListasBuscaryEliminar.dll
+C:\Users\7yuvr\source\repos\ListasBuscaryEliminar\ListasBuscaryEliminar\bin\publish\ListasBuscaryEliminar.deps.json
+C:\Users\7yuvr\source\repos\ListasBuscaryEliminar\ListasBuscaryEliminar\bin\publish\ListasBuscaryEliminar.runtimeconfig.json
+C:\Users\7yuvr\source\repos\ListasBuscaryEliminar\ListasBuscaryEliminar\bin\publish\ListasBuscaryEliminar.pdb

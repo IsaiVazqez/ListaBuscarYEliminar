@@ -1,0 +1,14 @@
+C:\Users\7yuvr\source\repos\ListasBuscaryEliminar\ListasBuscaryEliminar\bin\Debug\netcoreapp3.1\ListasBuscaryEliminar.exe
+C:\Users\7yuvr\source\repos\ListasBuscaryEliminar\ListasBuscaryEliminar\bin\Debug\netcoreapp3.1\ListasBuscaryEliminar.deps.json
+C:\Users\7yuvr\source\repos\ListasBuscaryEliminar\ListasBuscaryEliminar\bin\Debug\netcoreapp3.1\ListasBuscaryEliminar.runtimeconfig.json
+C:\Users\7yuvr\source\repos\ListasBuscaryEliminar\ListasBuscaryEliminar\bin\Debug\netcoreapp3.1\ListasBuscaryEliminar.runtimeconfig.dev.json
+C:\Users\7yuvr\source\repos\ListasBuscaryEliminar\ListasBuscaryEliminar\bin\Debug\netcoreapp3.1\ListasBuscaryEliminar.dll
+C:\Users\7yuvr\source\repos\ListasBuscaryEliminar\ListasBuscaryEliminar\bin\Debug\netcoreapp3.1\ListasBuscaryEliminar.pdb
+C:\Users\7yuvr\source\repos\ListasBuscaryEliminar\ListasBuscaryEliminar\obj\Debug\netcoreapp3.1\ListasBuscaryEliminar.csproj.AssemblyReference.cache
+C:\Users\7yuvr\source\repos\ListasBuscaryEliminar\ListasBuscaryEliminar\obj\Debug\netcoreapp3.1\ListasBuscaryEliminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\7yuvr\source\repos\ListasBuscaryEliminar\ListasBuscaryEliminar\obj\Debug\netcoreapp3.1\ListasBuscaryEliminar.AssemblyInfoInputs.cache
+C:\Users\7yuvr\source\repos\ListasBuscaryEliminar\ListasBuscaryEliminar\obj\Debug\netcoreapp3.1\ListasBuscaryEliminar.AssemblyInfo.cs
+C:\Users\7yuvr\source\repos\ListasBuscaryEliminar\ListasBuscaryEliminar\obj\Debug\netcoreapp3.1\ListasBuscaryEliminar.csproj.CoreCompileInputs.cache
+C:\Users\7yuvr\source\repos\ListasBuscaryEliminar\ListasBuscaryEliminar\obj\Debug\netcoreapp3.1\ListasBuscaryEliminar.dll
+C:\Users\7yuvr\source\repos\ListasBuscaryEliminar\ListasBuscaryEliminar\obj\Debug\netcoreapp3.1\ListasBuscaryEliminar.pdb
+C:\Users\7yuvr\source\repos\ListasBuscaryEliminar\ListasBuscaryEliminar\obj\Debug\netcoreapp3.1\ListasBuscaryEliminar.genruntimeconfig.cache
